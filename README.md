@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/zouazrou/Leetcode-Zou/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/zouazrou/Leetcode-Zou/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/zouazrou/Leetcode-Zou/tree/master/0687-longest-univalue-path) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/zouazrou/Leetcode-Zou/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/zouazrou/Leetcode-Zou/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/zouazrou/Leetcode-Zou/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/zouazrou/Leetcode-Zou/tree/master/0687-longest-univalue-path) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/zouazrou/Leetcode-Zou/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/zouazrou/Leetcode-Zou/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/zouazrou/Leetcode-Zou/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/zouazrou/Leetcode-Zou/tree/master/0687-longest-univalue-path) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/zouazrou/Leetcode-Zou/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |

@@ -10,30 +10,33 @@
  * right(right) {}
  * };
  */
+
+typedef long long ll;
+
 class Solution {
 public:
-    void DFS(TreeNode* root, int targetSum, deque<long long> nums, int& ans) {
+    void DFS(TreeNode* root, ll targetSum, unordered_map<ll, ll> Map, ll prvSum,
+             int& ans) {
         if (!root)
             return;
-        long long sum;
-        nums.push_back(root->val);
-        deque<long long> temp = nums;
-        while (!temp.empty()) {
-            sum = accumulate(temp.begin(), temp.end(), 0l);
-            if (sum == targetSum)
-                ans++;
-            temp.pop_front();
-        }
-        if (root->left)
-            DFS(root->left, targetSum, nums, ans);
-        if (root->right)
-            DFS(root->right, targetSum, nums, ans);
-    }
+        ll currSum = prvSum + root->val;
+        ll Needed = currSum - targetSum;
 
+        if (Map.find(Needed) != Map.end())
+            ans += Map[Needed];
+
+        if (Map.find(currSum) != Map.end())
+            Map[currSum]++;
+        else
+            Map[currSum] = 1;
+        DFS(root->left, targetSum, Map, currSum, ans);
+        DFS(root->right, targetSum, Map, currSum, ans);
+    }
     int pathSum(TreeNode* root, int targetSum) {
         int ans = 0;
-        deque<long long> v;
-        DFS(root, targetSum, v, ans);
+        unordered_map<ll, ll> Map;
+        Map[0] = 1;
+        DFS(root, targetSum, Map, 0, ans);
         return (ans);
     }
 };

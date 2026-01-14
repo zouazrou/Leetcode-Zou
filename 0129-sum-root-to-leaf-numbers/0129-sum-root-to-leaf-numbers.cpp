@@ -1,18 +1,16 @@
 class Solution {
 private:
-    void dfs(TreeNode* root, int num, int& ans) {
+    int dfs(TreeNode* root, int num) {
         if (!root)
-            return;
+            return 0;
         if (!root->left && !root->right)
-            ans += num * 10 + root->val;
-        dfs(root->left, num * 10 + root->val, ans);
-        dfs(root->right, num * 10 + root->val, ans);
+            return num * 10 + root->val;
+        return dfs(root->left, num * 10 + root->val)
+              +dfs(root->right, num * 10 + root->val);
     }
 
 public:
     int sumNumbers(TreeNode* root) {
-        int ans = 0;
-        dfs(root, 0, ans);
-        return ans;
+        return dfs(root, 0);
     }
 };

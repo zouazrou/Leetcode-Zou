@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/zouazrou/Leetcode-Zou/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/zouazrou/Leetcode-Zou/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/zouazrou/Leetcode-Zou/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/zouazrou/Leetcode-Zou/tree/master/0687-longest-univalue-path) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/zouazrou/Leetcode-Zou/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/zouazrou/Leetcode-Zou/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/zouazrou/Leetcode-Zou/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/zouazrou/Leetcode-Zou/tree/master/0687-longest-univalue-path) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/zouazrou/Leetcode-Zou/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/zouazrou/Leetcode-Zou/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0437-path-sum-iii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/zouazrou/Leetcode-Zou/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/zouazrou/Leetcode-Zou/tree/master/0687-longest-univalue-path) |
@@ -49,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/zouazrou/Leetcode-Zou/tree/master/0104-maximum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/zouazrou/Leetcode-Zou/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->

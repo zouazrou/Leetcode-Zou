@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/zouazrou/Leetcode-Zou/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0227-basic-calculator-ii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/zouazrou/Leetcode-Zou/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/zouazrou/Leetcode-Zou/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Stack
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/zouazrou/Leetcode-Zou/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/zouazrou/Leetcode-Zou/tree/master/0687-longest-univalue-path) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/zouazrou/Leetcode-Zou/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/zouazrou/Leetcode-Zou/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/zouazrou/Leetcode-Zou/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/zouazrou/Leetcode-Zou/tree/master/0687-longest-univalue-path) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/zouazrou/Leetcode-Zou/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/zouazrou/Leetcode-Zou/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/zouazrou/Leetcode-Zou/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/zouazrou/Leetcode-Zou/tree/master/0687-longest-univalue-path) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/zouazrou/Leetcode-Zou/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/zouazrou/Leetcode-Zou/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -59,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zouazrou/Leetcode-Zou/tree/master/0124-binary-tree-maximum-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0988-smallest-string-starting-from-leaf](https://github.com/zouazrou/Leetcode-Zou/tree/master/0988-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->

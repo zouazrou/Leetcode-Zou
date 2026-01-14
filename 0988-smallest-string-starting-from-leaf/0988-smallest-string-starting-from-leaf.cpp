@@ -12,22 +12,22 @@
  */
 class Solution {
 private:
-    const string& ft_min(const string& a, const string& b)
-    {
+    const string& ft_min(const string& a, const string& b) {
         if (a.empty())
             return (b);
         if (b.empty())
             return (a);
         return min(a, b);
     }
+
 public:
     string dfs(TreeNode* root, string s) {
         if (!root)
             return "";
-        char c = static_cast<char>(root->val+'a');
+        s = static_cast<char>(root->val + 'a') + s; 
         if (!root->left && !root->right)
-            return c+s;
-        return ft_min(dfs(root->left, c+s), dfs(root->right, c+s));
+            return s;
+        return ft_min(dfs(root->left, s), dfs(root->right, s));
     }
     string smallestFromLeaf(TreeNode* root) { return dfs(root, ""); }
 };

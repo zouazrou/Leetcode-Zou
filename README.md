@@ -66,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/zouazrou/Leetcode-Zou/tree/master/0046-permutations) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/zouazrou/Leetcode-Zou/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Array
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/zouazrou/Leetcode-Zou/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/zouazrou/Leetcode-Zou/tree/master/0046-permutations) |
 ## Two Pointers
 |  |
 | ------- |

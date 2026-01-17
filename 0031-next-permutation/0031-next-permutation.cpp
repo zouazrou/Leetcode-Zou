@@ -15,7 +15,6 @@ public:
                 k--;
                 while (*i >= *k)
                     k--;
-                cout << "ye " << *i << ' ' << *k;
                 swap(*i, *k);
                 reverse(j, nums.end());
                 return ;

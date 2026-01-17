@@ -67,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-smallest-string-starting-from-leaf](https://github.com/zouazrou/Leetcode-Zou/tree/master/0988-smallest-string-starting-from-leaf) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/zouazrou/Leetcode-Zou/tree/master/0031-next-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/zouazrou/Leetcode-Zou/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->

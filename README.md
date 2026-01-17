@@ -67,14 +67,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/zouazrou/Leetcode-Zou/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0047-permutations-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/zouazrou/Leetcode-Zou/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Array
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/zouazrou/Leetcode-Zou/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/zouazrou/Leetcode-Zou/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0047-permutations-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/zouazrou/Leetcode-Zou/tree/master/0031-next-permutation) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->

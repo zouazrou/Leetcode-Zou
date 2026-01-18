@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/zouazrou/Leetcode-Zou/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/zouazrou/Leetcode-Zou/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0227-basic-calculator-ii) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/zouazrou/Leetcode-Zou/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/zouazrou/Leetcode-Zou/tree/master/0224-basic-calculator) |
 ## Tree
 |  |

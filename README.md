@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/zouazrou/Leetcode-Zou/tree/master/0022-generate-parentheses) |
 | [0224-basic-calculator](https://github.com/zouazrou/Leetcode-Zou/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0227-basic-calculator-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/zouazrou/Leetcode-Zou/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -64,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/zouazrou/Leetcode-Zou/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zouazrou/Leetcode-Zou/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/zouazrou/Leetcode-Zou/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/zouazrou/Leetcode-Zou/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0047-permutations-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/zouazrou/Leetcode-Zou/tree/master/0988-smallest-string-starting-from-leaf) |

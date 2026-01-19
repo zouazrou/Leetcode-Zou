@@ -5,12 +5,10 @@ public:
             ans.push_back(res);
             return;
         }
-        if (opn) {
-            bt(res + '(', opn - 1, cls, ans)    ;
-        }
-        if (cls && cls != opn) {
+        if (opn)
+            bt(res + '(', opn - 1, cls, ans);
+        if (cls && cls != opn)
             bt(res + ')', opn, cls - 1, ans);
-        }
     }
 
     vector<string> generateParenthesis(int n) {

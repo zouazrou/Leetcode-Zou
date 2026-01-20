@@ -1,21 +1,17 @@
 class Solution {
-    bool isValidRow(char n, int c, int r, vector<vector<char>>& board) {
-        for (int col = 0; col < 9; col++) {
-            if (col != c && board[r][col] == n)
+public:
+    void solveSudoku(vector<vector<char>>& board) { sl(0, board); }
+
+private:
+    bool checkColRow(char n, int c, int r, vector<vector<char>>& board) {
+        for (int i = 0; i < 9; i++) {
+            if ((i != c && board[r][i] == n) || (i != r && board[i][c] == n))
                 return false;
         }
         return true;
     }
 
-    bool isValidCol(char n, int c, int r, vector<vector<char>>& board) {
-        for (int row = 0; row < 9; row++) {
-            if (row != r && board[row][c] == n)
-                return false;
-        }
-        return true;
-    }
-
-    bool isValidBox(char n, int c, int r, vector<vector<char>>& board) {
+    bool checkBox(char n, int c, int r, vector<vector<char>>& board) {
         int dc = c / 3 * 3;
         int dr = r / 3 * 3;
         for (int row = dr; row < dr + 3; row++) {
@@ -28,16 +24,13 @@ class Solution {
     }
 
     bool isValidNum(char n, int c, int r, vector<vector<char>>& board) {
-        if (!isValidCol(n, c, r, board))
+        if (!checkColRow(n, c, r, board))
             return false;
-        if (!isValidRow(n, c, r, board))
-            return false;
-        if (!isValidBox(n, c, r, board))
+        if (!checkBox(n, c, r, board))
             return false;
         return true;
     }
 
-public:
     bool sl(int r, vector<vector<char>>& board) {
         for (int y = r; y < 9; y++) {
             for (int x = 0; x < 9; x++) {
@@ -56,5 +49,4 @@ public:
         }
         return true;
     }
-    void solveSudoku(vector<vector<char>>& board) { sl(0, board); }
 };

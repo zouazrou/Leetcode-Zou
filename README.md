@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/zouazrou/Leetcode-Zou/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/zouazrou/Leetcode-Zou/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/zouazrou/Leetcode-Zou/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0227-basic-calculator-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/zouazrou/Leetcode-Zou/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/zouazrou/Leetcode-Zou/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/zouazrou/Leetcode-Zou/tree/master/0224-basic-calculator) |
 ## Tree
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/zouazrou/Leetcode-Zou/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zouazrou/Leetcode-Zou/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/zouazrou/Leetcode-Zou/tree/master/0064-minimum-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/zouazrou/Leetcode-Zou/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

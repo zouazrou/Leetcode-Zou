@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/zouazrou/Leetcode-Zou/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/zouazrou/Leetcode-Zou/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/zouazrou/Leetcode-Zou/tree/master/0051-n-queens) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/zouazrou/Leetcode-Zou/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Array
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/zouazrou/Leetcode-Zou/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/zouazrou/Leetcode-Zou/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/zouazrou/Leetcode-Zou/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/zouazrou/Leetcode-Zou/tree/master/0064-minimum-path-sum) |
 ## Two Pointers
 |  |

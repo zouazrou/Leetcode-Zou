@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/zouazrou/Leetcode-Zou/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/zouazrou/Leetcode-Zou/tree/master/0064-minimum-path-sum) |
+| [0303-range-sum-query-immutable](https://github.com/zouazrou/Leetcode-Zou/tree/master/0303-range-sum-query-immutable) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/zouazrou/Leetcode-Zou/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/zouazrou/Leetcode-Zou/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/zouazrou/Leetcode-Zou/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

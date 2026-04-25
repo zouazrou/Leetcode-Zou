@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/zouazrou/Leetcode-Zou/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zouazrou/Leetcode-Zou/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/zouazrou/Leetcode-Zou/tree/master/0022-generate-parentheses) |
 | [0224-basic-calculator](https://github.com/zouazrou/Leetcode-Zou/tree/master/0224-basic-calculator) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/zouazrou/Leetcode-Zou/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/zouazrou/Leetcode-Zou/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/zouazrou/Leetcode-Zou/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zouazrou/Leetcode-Zou/tree/master/0037-sudoku-solver) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/zouazrou/Leetcode-Zou/tree/master/0303-range-sum-query-immutable) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/zouazrou/Leetcode-Zou/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

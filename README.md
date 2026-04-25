@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/zouazrou/Leetcode-Zou/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zouazrou/Leetcode-Zou/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/zouazrou/Leetcode-Zou/tree/master/0022-generate-parentheses) |
+| [0139-word-break](https://github.com/zouazrou/Leetcode-Zou/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/zouazrou/Leetcode-Zou/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0227-basic-calculator-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/zouazrou/Leetcode-Zou/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/zouazrou/Leetcode-Zou/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/zouazrou/Leetcode-Zou/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zouazrou/Leetcode-Zou/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/zouazrou/Leetcode-Zou/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/zouazrou/Leetcode-Zou/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/zouazrou/Leetcode-Zou/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/zouazrou/Leetcode-Zou/tree/master/0064-minimum-path-sum) |
+| [0139-word-break](https://github.com/zouazrou/Leetcode-Zou/tree/master/0139-word-break) |
 | [0303-range-sum-query-immutable](https://github.com/zouazrou/Leetcode-Zou/tree/master/0303-range-sum-query-immutable) |
 ## Two Pointers
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zouazrou/Leetcode-Zou/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/zouazrou/Leetcode-Zou/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zouazrou/Leetcode-Zou/tree/master/0037-sudoku-solver) |
+| [0139-word-break](https://github.com/zouazrou/Leetcode-Zou/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
@@ -130,4 +134,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zouazrou/Leetcode-Zou/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/zouazrou/Leetcode-Zou/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/zouazrou/Leetcode-Zou/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

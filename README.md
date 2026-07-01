@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/zouazrou/Leetcode-Zou/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/zouazrou/Leetcode-Zou/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/zouazrou/Leetcode-Zou/tree/master/0139-word-break) |
+| [0221-maximal-square](https://github.com/zouazrou/Leetcode-Zou/tree/master/0221-maximal-square) |
 ## Backtracking
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/zouazrou/Leetcode-Zou/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/zouazrou/Leetcode-Zou/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/zouazrou/Leetcode-Zou/tree/master/0139-word-break) |
+| [0221-maximal-square](https://github.com/zouazrou/Leetcode-Zou/tree/master/0221-maximal-square) |
 | [0303-range-sum-query-immutable](https://github.com/zouazrou/Leetcode-Zou/tree/master/0303-range-sum-query-immutable) |
 ## Two Pointers
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/zouazrou/Leetcode-Zou/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/zouazrou/Leetcode-Zou/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/zouazrou/Leetcode-Zou/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/zouazrou/Leetcode-Zou/tree/master/0221-maximal-square) |
 ## Linked List
 |  |
 | ------- |
